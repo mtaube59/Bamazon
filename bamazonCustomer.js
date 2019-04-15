@@ -57,7 +57,7 @@ function showDatabase() {
                         
                     }
                     else {
-                        console.log("Insufficient quantity!");
+                        console.log("Insufficient Quantity!");
                         connection.end()
                     }
                     
