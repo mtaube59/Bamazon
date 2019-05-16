@@ -4,6 +4,9 @@ This is a node application that uses a database from mysql to complete the opera
 
 ## Link
 
+![alt text](https://github.com/mtaube59/Bamazon/blob/master/bamazon.gif?raw=true)
+
+
 OPEN LINK IN NEW TAB:
 
 https://drive.google.com/file/d/1w9DEo7Bu4kg543dE0Vw-Ca1TbJHr5xVn/view?usp=sharing
